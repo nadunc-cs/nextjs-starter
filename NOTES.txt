@@ -1,0 +1,11 @@
+1. Setup unit tests
+https://nextjs.org/docs/testing#jest-and-react-testing-library
+
+2. Use JSDoc comments
+
+3. Setup husky
+https://levelup.gitconnected.com/add-husky-lint-staged-to-react-typescript-b634314a9739
+
+4. Do not use git commit. use "yarn commit".
+    * setup gacp (https://www.npmjs.com/package/gacp)
+    * create ".gacprc.json" config
