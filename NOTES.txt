@@ -9,3 +9,6 @@ https://levelup.gitconnected.com/add-husky-lint-staged-to-react-typescript-b6343
 4. Do not use git commit. use "yarn commit".
     * setup gacp (https://www.npmjs.com/package/gacp)
     * create ".gacprc.json" config
+
+5. use bem 
+http://getbem.com/
